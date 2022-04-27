@@ -1,6 +1,7 @@
 /*style.css*/
 
-.all_buttons {
+.left_button,
+.right_button {
     font-size: 28px;
     font-family: "Helvetica", "Times New Roman", sans-serif;
 }
